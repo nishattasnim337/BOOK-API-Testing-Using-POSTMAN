@@ -10,3 +10,5 @@ Goto this API : https://simple-books-api.glitch.me
 ![summary](https://github.com/nishattasnim337/Book-API-Load-Testing/assets/47314975/e14f96b0-e5d3-4f0f-817e-87d5f26df67d)
 ## Newman Terminal View
 ![terminal_summary](https://github.com/nishattasnim337/Book-API-Load-Testing/assets/47314975/5d8642a3-6640-4eb6-a9d6-58f684040d19)
+## Postman Overview
+![POSTMAN](https://github.com/nishattasnim337/BOOK-API-Testing-Using-POSTMAN/assets/47314975/b31dce2c-4508-4e25-afaa-7eeee5c982fa)
